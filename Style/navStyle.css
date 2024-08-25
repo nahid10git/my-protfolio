@@ -1,10 +1,16 @@
 nav{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+nav h3{
+    font-size: 50px;
 }
 
 nav ul{
     display: flex;
-    padding: 20px;
+    
 }
 
 nav li{
@@ -18,4 +24,35 @@ nav button{
 }
 .title{
     color: brown;
+    
+
+}
+
+
+
+.nav-btn{
+background-color: coral;    
+}
+
+main h1,p {
+    text-align: center;
+    padding: 10px;
+}
+
+main li{
+    display: flex;
+    list-style: none;
+    padding: 30px;
+}
+main ul{
+    display: flex;
+    margin-left: 20%;
+}
+
+
+
+
+
+.header{
+    background-color: rgb(246, 166, 108);
 }

@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+}
+
+nav ul{
+    display: flex;
+    padding: 20px;
+}
+
+nav li{
+    text-decoration: none;
+    list-style: none;
+    padding: 20px;
+}
+nav button{
+    height: 40px;
+    width: 170px;
+}
+.title{
+    color: brown;
+}
